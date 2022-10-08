@@ -1,0 +1,16 @@
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\condtions_and_method\obj\Debug\net5.0\condtions_and_method.csproj.AssemblyReference.cache
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\condtions_and_method\obj\Debug\net5.0\condtions_and_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\condtions_and_method\obj\Debug\net5.0\condtions_and_method.AssemblyInfoInputs.cache
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\condtions_and_method\obj\Debug\net5.0\condtions_and_method.AssemblyInfo.cs
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\condtions_and_method\obj\Debug\net5.0\condtions_and_method.csproj.CoreCompileInputs.cache
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\condtions_and_method\bin\Debug\net5.0\condtions_and_method.exe
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\condtions_and_method\bin\Debug\net5.0\condtions_and_method.deps.json
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\condtions_and_method\bin\Debug\net5.0\condtions_and_method.runtimeconfig.json
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\condtions_and_method\bin\Debug\net5.0\condtions_and_method.runtimeconfig.dev.json
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\condtions_and_method\bin\Debug\net5.0\condtions_and_method.dll
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\condtions_and_method\bin\Debug\net5.0\ref\condtions_and_method.dll
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\condtions_and_method\bin\Debug\net5.0\condtions_and_method.pdb
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\condtions_and_method\obj\Debug\net5.0\condtions_and_method.dll
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\condtions_and_method\obj\Debug\net5.0\ref\condtions_and_method.dll
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\condtions_and_method\obj\Debug\net5.0\condtions_and_method.pdb
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\condtions_and_method\obj\Debug\net5.0\condtions_and_method.genruntimeconfig.cache

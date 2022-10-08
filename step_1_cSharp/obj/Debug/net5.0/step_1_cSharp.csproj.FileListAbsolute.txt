@@ -1,0 +1,16 @@
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\step_1_cSharp\bin\Debug\net5.0\step_1_cSharp.exe
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\step_1_cSharp\bin\Debug\net5.0\step_1_cSharp.deps.json
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\step_1_cSharp\bin\Debug\net5.0\step_1_cSharp.runtimeconfig.json
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\step_1_cSharp\bin\Debug\net5.0\step_1_cSharp.runtimeconfig.dev.json
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\step_1_cSharp\bin\Debug\net5.0\step_1_cSharp.dll
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\step_1_cSharp\bin\Debug\net5.0\ref\step_1_cSharp.dll
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\step_1_cSharp\bin\Debug\net5.0\step_1_cSharp.pdb
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\step_1_cSharp\obj\Debug\net5.0\step_1_cSharp.csproj.AssemblyReference.cache
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\step_1_cSharp\obj\Debug\net5.0\step_1_cSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\step_1_cSharp\obj\Debug\net5.0\step_1_cSharp.AssemblyInfoInputs.cache
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\step_1_cSharp\obj\Debug\net5.0\step_1_cSharp.AssemblyInfo.cs
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\step_1_cSharp\obj\Debug\net5.0\step_1_cSharp.csproj.CoreCompileInputs.cache
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\step_1_cSharp\obj\Debug\net5.0\step_1_cSharp.dll
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\step_1_cSharp\obj\Debug\net5.0\ref\step_1_cSharp.dll
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\step_1_cSharp\obj\Debug\net5.0\step_1_cSharp.pdb
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\step_1_cSharp\obj\Debug\net5.0\step_1_cSharp.genruntimeconfig.cache
