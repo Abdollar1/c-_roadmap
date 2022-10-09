@@ -1,0 +1,16 @@
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\list\bin\Debug\net5.0\list.exe
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\list\bin\Debug\net5.0\list.deps.json
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\list\bin\Debug\net5.0\list.runtimeconfig.json
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\list\bin\Debug\net5.0\list.runtimeconfig.dev.json
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\list\bin\Debug\net5.0\list.dll
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\list\bin\Debug\net5.0\ref\list.dll
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\list\bin\Debug\net5.0\list.pdb
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\list\obj\Debug\net5.0\list.csproj.AssemblyReference.cache
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\list\obj\Debug\net5.0\list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\list\obj\Debug\net5.0\list.AssemblyInfoInputs.cache
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\list\obj\Debug\net5.0\list.AssemblyInfo.cs
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\list\obj\Debug\net5.0\list.csproj.CoreCompileInputs.cache
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\list\obj\Debug\net5.0\list.dll
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\list\obj\Debug\net5.0\ref\list.dll
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\list\obj\Debug\net5.0\list.pdb
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\list\obj\Debug\net5.0\list.genruntimeconfig.cache
