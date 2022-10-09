@@ -1,0 +1,16 @@
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\calling_method\bin\Debug\net5.0\calling_method.exe
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\calling_method\bin\Debug\net5.0\calling_method.deps.json
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\calling_method\bin\Debug\net5.0\calling_method.runtimeconfig.json
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\calling_method\bin\Debug\net5.0\calling_method.runtimeconfig.dev.json
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\calling_method\bin\Debug\net5.0\calling_method.dll
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\calling_method\bin\Debug\net5.0\ref\calling_method.dll
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\calling_method\bin\Debug\net5.0\calling_method.pdb
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\calling_method\obj\Debug\net5.0\calling_method.csproj.AssemblyReference.cache
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\calling_method\obj\Debug\net5.0\calling_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\calling_method\obj\Debug\net5.0\calling_method.AssemblyInfoInputs.cache
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\calling_method\obj\Debug\net5.0\calling_method.AssemblyInfo.cs
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\calling_method\obj\Debug\net5.0\calling_method.csproj.CoreCompileInputs.cache
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\calling_method\obj\Debug\net5.0\calling_method.dll
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\calling_method\obj\Debug\net5.0\ref\calling_method.dll
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\calling_method\obj\Debug\net5.0\calling_method.pdb
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\calling_method\obj\Debug\net5.0\calling_method.genruntimeconfig.cache
