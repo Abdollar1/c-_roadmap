@@ -1,0 +1,16 @@
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\passing_parameters\bin\Debug\net5.0\passing_parameters.exe
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\passing_parameters\bin\Debug\net5.0\passing_parameters.deps.json
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\passing_parameters\bin\Debug\net5.0\passing_parameters.runtimeconfig.json
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\passing_parameters\bin\Debug\net5.0\passing_parameters.runtimeconfig.dev.json
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\passing_parameters\bin\Debug\net5.0\passing_parameters.dll
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\passing_parameters\bin\Debug\net5.0\ref\passing_parameters.dll
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\passing_parameters\bin\Debug\net5.0\passing_parameters.pdb
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\passing_parameters\obj\Debug\net5.0\passing_parameters.csproj.AssemblyReference.cache
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\passing_parameters\obj\Debug\net5.0\passing_parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\passing_parameters\obj\Debug\net5.0\passing_parameters.AssemblyInfoInputs.cache
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\passing_parameters\obj\Debug\net5.0\passing_parameters.AssemblyInfo.cs
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\passing_parameters\obj\Debug\net5.0\passing_parameters.csproj.CoreCompileInputs.cache
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\passing_parameters\obj\Debug\net5.0\passing_parameters.dll
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\passing_parameters\obj\Debug\net5.0\ref\passing_parameters.dll
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\passing_parameters\obj\Debug\net5.0\passing_parameters.pdb
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\passing_parameters\obj\Debug\net5.0\passing_parameters.genruntimeconfig.cache

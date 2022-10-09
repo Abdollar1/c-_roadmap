@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "calling_method", "..\callin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "more_about_methods", "..\more_about_methods\more_about_methods.csproj", "{55DC70CF-FEA6-403B-9BD7-A3CD1CA344AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "passing_parameters", "..\passing_parameters\passing_parameters.csproj", "{7B6D84FC-8DC8-4D76-97D6-CC5DC5D0EDA8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{55DC70CF-FEA6-403B-9BD7-A3CD1CA344AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55DC70CF-FEA6-403B-9BD7-A3CD1CA344AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55DC70CF-FEA6-403B-9BD7-A3CD1CA344AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B6D84FC-8DC8-4D76-97D6-CC5DC5D0EDA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B6D84FC-8DC8-4D76-97D6-CC5DC5D0EDA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B6D84FC-8DC8-4D76-97D6-CC5DC5D0EDA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B6D84FC-8DC8-4D76-97D6-CC5DC5D0EDA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

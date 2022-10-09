@@ -1,0 +1,16 @@
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\more_about_methods\bin\Debug\net5.0\more_about_methods.exe
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\more_about_methods\bin\Debug\net5.0\more_about_methods.deps.json
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\more_about_methods\bin\Debug\net5.0\more_about_methods.runtimeconfig.json
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\more_about_methods\bin\Debug\net5.0\more_about_methods.runtimeconfig.dev.json
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\more_about_methods\bin\Debug\net5.0\more_about_methods.dll
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\more_about_methods\bin\Debug\net5.0\ref\more_about_methods.dll
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\more_about_methods\bin\Debug\net5.0\more_about_methods.pdb
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\more_about_methods\obj\Debug\net5.0\more_about_methods.csproj.AssemblyReference.cache
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\more_about_methods\obj\Debug\net5.0\more_about_methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\more_about_methods\obj\Debug\net5.0\more_about_methods.AssemblyInfoInputs.cache
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\more_about_methods\obj\Debug\net5.0\more_about_methods.AssemblyInfo.cs
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\more_about_methods\obj\Debug\net5.0\more_about_methods.csproj.CoreCompileInputs.cache
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\more_about_methods\obj\Debug\net5.0\more_about_methods.dll
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\more_about_methods\obj\Debug\net5.0\ref\more_about_methods.dll
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\more_about_methods\obj\Debug\net5.0\more_about_methods.pdb
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\more_about_methods\obj\Debug\net5.0\more_about_methods.genruntimeconfig.cache
