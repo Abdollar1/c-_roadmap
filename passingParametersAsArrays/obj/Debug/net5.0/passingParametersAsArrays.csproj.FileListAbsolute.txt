@@ -1,0 +1,16 @@
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\passingParametersAsArrays\bin\Debug\net5.0\passingParametersAsArrays.exe
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\passingParametersAsArrays\bin\Debug\net5.0\passingParametersAsArrays.deps.json
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\passingParametersAsArrays\bin\Debug\net5.0\passingParametersAsArrays.runtimeconfig.json
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\passingParametersAsArrays\bin\Debug\net5.0\passingParametersAsArrays.runtimeconfig.dev.json
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\passingParametersAsArrays\bin\Debug\net5.0\passingParametersAsArrays.dll
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\passingParametersAsArrays\bin\Debug\net5.0\ref\passingParametersAsArrays.dll
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\passingParametersAsArrays\bin\Debug\net5.0\passingParametersAsArrays.pdb
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\passingParametersAsArrays\obj\Debug\net5.0\passingParametersAsArrays.csproj.AssemblyReference.cache
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\passingParametersAsArrays\obj\Debug\net5.0\passingParametersAsArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\passingParametersAsArrays\obj\Debug\net5.0\passingParametersAsArrays.AssemblyInfoInputs.cache
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\passingParametersAsArrays\obj\Debug\net5.0\passingParametersAsArrays.AssemblyInfo.cs
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\passingParametersAsArrays\obj\Debug\net5.0\passingParametersAsArrays.csproj.CoreCompileInputs.cache
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\passingParametersAsArrays\obj\Debug\net5.0\passingParametersAsArrays.dll
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\passingParametersAsArrays\obj\Debug\net5.0\ref\passingParametersAsArrays.dll
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\passingParametersAsArrays\obj\Debug\net5.0\passingParametersAsArrays.pdb
+C:\Users\AmAsap Dasty\Desktop\Document\Innorik\passingParametersAsArrays\obj\Debug\net5.0\passingParametersAsArrays.genruntimeconfig.cache
